@@ -23,7 +23,7 @@ OPENROUTER_URL = 'https://openrouter.ai/api/v1/chat/completions'
 
 # Telegram
 TG_TOKEN = '8630662680:AAGin-Yddy2FonBPTUyf7V4piGE82SlVGXc'
-TG_CHAT_ID = '8580157399'
+TG_CHAT_ID = '-1003992484656'
 
 # Файлы
 DB_FILE = 'scammers_db.json'
